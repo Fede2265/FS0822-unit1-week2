@@ -34,3 +34,16 @@ Giorno 4
 
 
 Java Stream and Lambda functions
+
+
+-----------------------------------------------------------------------
+
+Progetto settimanale
+
+
+Catalogo bibliotecario.
+
+
+Per l'implementazione degli algoritmi si impiegano Java Streams e Lambda expression
+
+
